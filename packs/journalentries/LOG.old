@@ -1,15 +1,8 @@
-2025/05/31-19:04:48.118124 30c12a000 Recovering log #356
-2025/05/31-19:04:48.118637 30c12a000 Delete type=3 #354
-2025/05/31-19:04:48.118693 30c12a000 Delete type=0 #356
-2025/05/31-19:05:52.108183 3058a3000 Level-0 table #361: started
-2025/05/31-19:05:52.108385 3058a3000 Level-0 table #361: 767 bytes OK
-2025/05/31-19:05:52.108479 3058a3000 Delete type=0 #359
-2025/05/31-19:05:52.108729 3058a3000 Manual compaction at level-0 from '!journal!SCyQDBgWHyKnkw1J' @ 72057594037927935 : 1 .. '!journal.pages!SCyQDBgWHyKnkw1J.W0qOXhkOkYGrXLOV' @ 0 : 0; will stop at (end)
-2025/05/31-19:05:52.108851 3058a3000 Manual compaction at level-1 from '!journal!SCyQDBgWHyKnkw1J' @ 72057594037927935 : 1 .. '!journal.pages!SCyQDBgWHyKnkw1J.W0qOXhkOkYGrXLOV' @ 0 : 0; will stop at '!journal!SCyQDBgWHyKnkw1J' @ 41 : 1
-2025/05/31-19:05:52.108902 3058a3000 Compacting 1@1 + 1@2 files
-2025/05/31-19:05:52.109651 3058a3000 Generated table #362@1: 10 keys, 20100 bytes
-2025/05/31-19:05:52.109664 3058a3000 Compacted 1@1 + 1@2 files => 20100 bytes
-2025/05/31-19:05:52.109734 3058a3000 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/05/31-19:05:52.109785 3058a3000 Delete type=2 #361
-2025/05/31-19:05:52.109863 3058a3000 Delete type=2 #341
-2025/05/31-19:05:52.110910 3058a3000 Manual compaction at level-1 from '!journal!SCyQDBgWHyKnkw1J' @ 41 : 1 .. '!journal.pages!SCyQDBgWHyKnkw1J.W0qOXhkOkYGrXLOV' @ 0 : 0; will stop at (end)
+2025/06/02-19:03:22.635546 30b437000 Recovering log #366
+2025/06/02-19:03:22.636124 30b437000 Delete type=3 #365
+2025/06/02-19:03:22.636182 30b437000 Delete type=0 #366
+2025/06/02-19:05:41.887654 3053af000 Level-0 table #370: started
+2025/06/02-19:05:41.887664 3053af000 Level-0 table #370: 0 bytes OK
+2025/06/02-19:05:41.887733 3053af000 Delete type=0 #368
+2025/06/02-19:05:41.888241 3053af000 Manual compaction at level-0 from '!journal!SCyQDBgWHyKnkw1J' @ 72057594037927935 : 1 .. '!journal.pages!SCyQDBgWHyKnkw1J.W0qOXhkOkYGrXLOV' @ 0 : 0; will stop at (end)
+2025/06/02-19:05:41.888270 3053af000 Manual compaction at level-1 from '!journal!SCyQDBgWHyKnkw1J' @ 72057594037927935 : 1 .. '!journal.pages!SCyQDBgWHyKnkw1J.W0qOXhkOkYGrXLOV' @ 0 : 0; will stop at (end)
